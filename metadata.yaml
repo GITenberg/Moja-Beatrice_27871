@@ -1,0 +1,32 @@
+_repo: Moja-Beatrice_27871
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Krasiński, Zygmunt, hrabia
+    aliases:
+    - Krasinski, Zygmunt
+    - Zygmunt Krasiñski
+    birthdate: 1812
+    deathdate: 1859
+    gutenberg_agent_id: '32980'
+    url: http://www.gutenberg.org/2009/agents/32980
+    wikipedia:
+    - http://pl.wikipedia.org/wiki/Zygmunt_Krasi%C5%84ski
+    - http://en.wikipedia.org/wiki/Zygmunt_Krasi%C5%84ski
+description: ''
+gutenberg_issued: '2009-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27871'
+language: pl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PG'
+title: Moja Beatrice
+url: http://www.gutenberg.org/ebooks/27871
