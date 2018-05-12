@@ -17,6 +17,8 @@ creator:
     - http://pl.wikipedia.org/wiki/Zygmunt_Krasi%C5%84ski
     - http://en.wikipedia.org/wiki/Zygmunt_Krasi%C5%84ski
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27871#Moja-Beatrice
 gutenberg_issued: '2009-01-22'
 gutenberg_type: Text
 identifiers:
